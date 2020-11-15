@@ -1,7 +1,7 @@
 call pathogen#infect()
 syntax on
 set number
-colo test
+color mycolors
 filetype plugin indent on
 
 map <C-n> :NERDTreeToggle<CR>
