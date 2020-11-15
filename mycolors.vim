@@ -14,7 +14,7 @@ let colors_name = "mycolors"
 
 hi Normal	 	ctermfg=247 ctermbg=NONE
 hi ErrorMsg		ctermfg=red ctermbg=NONE
-hi Visual		ctermfg=53 ctermbg=20
+hi Visual		ctermfg=53 ctermbg=205
 hi VisualNOS	ctermfg=lightblue ctermbg=fg cterm=reverse,underline
 hi Todo			ctermfg=65	ctermbg=NONE
 hi Search		ctermfg=white ctermbg=darkblue cterm=underline term=underline
